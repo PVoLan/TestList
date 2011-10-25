@@ -1,0 +1,109 @@
+D/AndroidRuntime(  978): >>>>>>>>>>>>>> AndroidRuntime START <<<<<<<<<<<<<<
+D/AndroidRuntime(  978): CheckJNI is ON
+D/AndroidRuntime(  978): --- registering native functions ---
+I/ActivityManager(   59): Starting activity: Intent { act=android.intent.action.MAIN flg=0x10000000 cmp=TestList.TestList/testlist.Activity1 }
+I/ActivityManager(   59): Start proc TestList.TestList for activity TestList.TestList/testlist.Activity1: pid=984 uid=10047 gids={3003}
+D/AndroidRuntime(  978): Shutting down VM
+D/jdwp    (  978): adbd disconnected
+I/dalvikvm(  978): JNI: AttachCurrentThread (from ???.???)
+I/AndroidRuntime(  978): NOTE: attach of thread 'Binder Thread #3' failed
+I/ActivityThread(  984): Publishing provider TestList.TestList.__mono_init__: mono.MonoRuntimeProvider
+D/dalvikvm(  984): Trying to load lib /data/data/TestList.TestList/lib/libmonodroid.so 0x44f3e908
+D/dalvikvm(  984): Added shared lib /data/data/TestList.TestList/lib/libmonodroid.so 0x44f3e908
+D/dalvikvm(  984): GC_FOR_MALLOC freed 12849 objects / 480384 bytes in 70ms
+D/dalvikvm(  984): GC_FOR_MALLOC freed 10383 objects / 484512 bytes in 51ms
+D/dalvikvm(  984): GREF has increased to 201
+D/dalvikvm(  984): GREF has increased to 301
+I/ActivityManager(   59): Displayed activity TestList.TestList/testlist.Activity1: 8567 ms (total 8567 ms)
+D/dalvikvm(  984): GC_FOR_MALLOC freed 7778 objects / 388000 bytes in 70ms
+D/dalvikvm(  984): GREF has increased to 401
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 225 objects / 12144 bytes in 50ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 258 objects / 15880 bytes in 52ms
+D/dalvikvm(  984): GREF has increased to 501
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 468 objects / 28944 bytes in 54ms
+D/dalvikvm(  118): GC_EXPLICIT freed 222 objects / 10456 bytes in 203ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 515 objects / 29960 bytes in 51ms
+D/dalvikvm(  984): GREF has increased to 601
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 503 objects / 31064 bytes in 53ms
+D/dalvikvm(  984): GREF has increased to 701
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 443 objects / 27304 bytes in 52ms
+D/dalvikvm(  984): GREF has increased to 801
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 481 objects / 29384 bytes in 55ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 467 objects / 27672 bytes in 59ms
+D/dalvikvm(  984): GREF has increased to 901
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 493 objects / 29904 bytes in 59ms
+D/dalvikvm(  984): GREF has increased to 1001
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 506 objects / 30952 bytes in 55ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 502 objects / 29592 bytes in 58ms
+D/dalvikvm(  984): GREF has increased to 1101
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 421 objects / 24664 bytes in 73ms
+D/dalvikvm(  984): GREF has increased to 1201
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 498 objects / 30608 bytes in 58ms
+D/dalvikvm(  984): GREF has increased to 1301
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 590 objects / 37576 bytes in 58ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 508 objects / 29912 bytes in 59ms
+D/dalvikvm(  984): GREF has increased to 1401
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 486 objects / 29208 bytes in 62ms
+D/dalvikvm(  984): GREF has increased to 1501
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 428 objects / 26336 bytes in 59ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 446 objects / 26664 bytes in 62ms
+D/dalvikvm(  984): GREF has increased to 1601
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 522 objects / 30824 bytes in 63ms
+D/dalvikvm(  984): GREF has increased to 1701
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 574 objects / 34008 bytes in 68ms
+D/dalvikvm(  984): GREF has increased to 1801
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 396 objects / 26048 bytes in 75ms
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 474 objects / 29408 bytes in 102ms
+D/dalvikvm(  984): GREF has increased to 1901
+D/dalvikvm(  984): GC_EXTERNAL_ALLOC freed 538 objects / 31912 bytes in 72ms
+D/dalvikvm(  984): GREF has increased to 2001
+W/dalvikvm(  984): Last 10 entries in JNI global reference table:
+W/dalvikvm(  984):  1991: 0x450e7f70 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  1992: 0x450e8198 cls=Landroid/widget/LinearLayout; (332 bytes)
+W/dalvikvm(  984):  1993: 0x450e82e8 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  1994: 0x450e8510 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  1995: 0x450e8840 cls=Landroid/widget/LinearLayout; (332 bytes)
+W/dalvikvm(  984):  1996: 0x450e8a30 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  1997: 0x450e8e58 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  1998: 0x450e96e0 cls=Landroid/widget/LinearLayout; (332 bytes)
+W/dalvikvm(  984):  1999: 0x450e98d0 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(  984):  2000: 0x450ea240 cls=Ljava/lang/String; (28 bytes)
+W/dalvikvm(  984): JNI global reference table summary (2001 entries):
+W/dalvikvm(  984):   125 of Ljava/lang/Class; 164B (77 unique)
+W/dalvikvm(  984):     1 of Ljava/lang/Class; 172B
+W/dalvikvm(  984):     2 of Ldalvik/system/VMRuntime; 12B (1 unique)
+W/dalvikvm(  984):     2 of Ljava/lang/String; 28B (2 unique)
+W/dalvikvm(  984):    10 of Ljava/lang/ref/WeakReference; 28B (10 unique)
+W/dalvikvm(  984):     1 of Landroid/app/ActivityThread$ApplicationThread; 28B
+W/dalvikvm(  984):     1 of Ldalvik/system/PathClassLoader; 52B
+W/dalvikvm(  984):   537 of Landroid/widget/LinearLayout; 332B (537 unique)
+W/dalvikvm(  984):    12 of Landroid/widget/LinearLayout; 340B (12 unique)
+W/dalvikvm(  984):     1 of Ljava/util/ArrayList; 28B
+W/dalvikvm(  984):  1096 of Landroid/widget/TextView; 548B (1096 unique)
+W/dalvikvm(  984):     1 of Landroid/widget/TextView; 556B
+W/dalvikvm(  984):     1 of Landroid/content/ContentProvider$Transport; 28B
+W/dalvikvm(  984):     1 of Ljavax/net/ssl/TrustManagerFactory; 20B
+W/dalvikvm(  984):     2 of Lorg/apache/harmony/xnet/provider/jsse/TrustManagerImpl; 28B (1 unique)
+W/dalvikvm(  984):     1 of Landroid/view/ViewRoot$W; 28B
+W/dalvikvm(  984):     1 of Landroid/widget/ListView; 740B
+W/dalvikvm(  984):     1 of Lcom/android/internal/policy/impl/PhoneLayoutInflater; 36B
+W/dalvikvm(  984):     1 of Landroid/view/inputmethod/InputMethodManager$1; 28B
+W/dalvikvm(  984):     1 of Landroid/view/inputmethod/InputMethodManager$ControlledInputConnectionWrapper; 36B
+W/dalvikvm(  984):     1 of Ltestlist/Activity1; 180B
+W/dalvikvm(  984):     1 of Ltestlist/ItemAdapter; 60B
+W/dalvikvm(  984):   200 of Lmono/android/runtime/JavaObject; 12B (200 unique)
+W/dalvikvm(  984):     1 of Landroid/view/accessibility/AccessibilityManager$1; 28B
+W/dalvikvm(  984): Memory held directly by tracked refs is 800396 bytes
+E/dalvikvm(  984): Excessive JNI global references (2001)
+E/dalvikvm(  984): VM aborting
+I/mono    (  984): Stacktrace:
+I/mono    (  984): 
+I/mono    (  984):   at Android.Runtime.JNIEnv.NewGlobalRef (intptr) <0x0003f>
+I/mono    (  984):   at Java.Lang.Object.RegisterInstance (intptr,Android.Runtime.IJavaObject,bool) <0x0009f>
+I/mono    (  984):   at Java.Lang.Object.SetHandle (intptr,bool) <0x00023>
+I/mono    (  984):   at Java.Lang.String..ctor (string) <0x0026f>
+I/mono    (  984):   at Android.Widget.TextView.set_Text (string) <0x0003b>
+I/mono    (  984):   at TestList.ItemAdapter.GetView (int,Android.Views.View,Android.Views.ViewGroup) <0x0013f>
+I/mono    (  984):   at Android.Widget.ArrayAdapter.n_GetView_ILandroid_view_View_Landroid_view_ViewGroup_ (intptr,intptr,int,intptr,intptr) <0x00093>
+I/mono    (  984):   at (wrapper dynamic-method) object.5732f938-af03-4abd-b204-82e6b84e621c (intptr,intptr,int,intptr,intptr) <0x0004b>
+I/mono    (  984):   at (wrapper native-to-managed) object.5732f938-af03-4abd-b204-82e6b84e621c (intptr,intptr,int,intptr,intptr) <0xffffffff>
