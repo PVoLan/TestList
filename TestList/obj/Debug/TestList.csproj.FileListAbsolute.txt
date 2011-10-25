@@ -1,0 +1,15 @@
+C:\Temp\TestList\TestList\bin\Debug\TestList.dll
+C:\Temp\TestList\TestList\bin\Debug\TestList.pdb
+C:\Temp\TestList\TestList\bin\Debug\TestList.dll.mdb
+C:\Temp\TestList\TestList\bin\Debug\TestList.TestList.apk
+C:\Temp\TestList\TestList\bin\Debug\TestList.TestList-Signed.apk
+C:\Temp\TestList\TestList\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\TestList\TestList\obj\Debug\TestList.dll
+C:\Temp\TestList\TestList\obj\Debug\TestList.pdb
+C:\Temp\TestList\TestList\obj\Debug\android\bin\TestList.TestList.apk
+C:\Temp\TestList\TestList\obj\Debug\res\layout\main.axml
+C:\Temp\TestList\TestList\obj\Debug\res\values\strings.xml
+C:\Temp\TestList\TestList\obj\Debug\res\drawable\icon.png
+C:\Temp\TestList\TestList\obj\Debug\res\layout\listitem.axml
+C:\Temp\TestList\TestList\obj\Debug\R.cs.flag
+C:\Temp\TestList\TestList\obj\Debug\uploadflags.txt
